@@ -12,6 +12,6 @@ First Camp (1 Oct - 15 Oct 2014)
 
 - Dr.K
 * [ ] State Space, Depth First Search in State Space
-* [ ] Backtracking, Prunning, Branch and Bound
+* [ ] Backtracking, Prunning
 * [ ] Subset Sum Problem
 * [ ] Permutation
