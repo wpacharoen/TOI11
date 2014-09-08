@@ -15,4 +15,3 @@ First Camp (1 Oct - 15 Oct 2014)
 * [ ] Backtracking, Prunning, Branch and Bound
 * [ ] Subset Sum Problem
 * [ ] Permutation
-* [ ] testtestteststest
