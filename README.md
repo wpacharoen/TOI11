@@ -11,5 +11,7 @@ First Camp (1 Oct - 15 Oct 2014)
 * [ ] Sum of product rule, เพิ่มเข้าตัดออก, Radix conversion
 
 - Dr.K
-* [ ] foo
-* [ ] bar
+* [ ] State Space, Depth First Search in State Space
+* [ ] Backtracking, Prunning, Branch and Bound
+* [ ] Subset Sum Problem
+* [ ] Permutation
